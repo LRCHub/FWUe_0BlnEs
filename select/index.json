@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "最愛のゆくえ.",
+  "base_artist": "bokula.",
+  "createdAt": "2026-02-17T21:35:30.382845Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最愛のゆくえ.",
+      "artist": "bokula.",
+      "has_synced": false,
+      "path": "select/pl_01_最愛のゆくえ._bokula..txt"
+    }
+  ]
+}
